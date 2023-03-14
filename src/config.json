@@ -1,6 +1,6 @@
 {
     "title": "HU OSS",
-    "port": "2318",
+    "port": "8080",
     "ssl": false,
     "ws": true,
     "prefix": "/service/",
